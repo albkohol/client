@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\authentication.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\authentication.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\authentication_error.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\authentication_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\display_device_info.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\display_device_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\entry.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\entry.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\sherlock_menu_cope.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\sherlock_menu_cope.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\all_ready_registered.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\all_ready_registered.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\alert.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\available_operations.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\available_operations.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\notification.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\register_successful.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\register_successful.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\auth_sherlock_menu.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\auth_sherlock_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\log.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\options_menu.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\pin_code.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\pin_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\notify.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\notify.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\sherlock_menu_byod.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\sherlock_menu_byod.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\settings.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\menu\\agent_settings.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\menu\\agent_settings.xml"
+    }
+]

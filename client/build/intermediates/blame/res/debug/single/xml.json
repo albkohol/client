@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\xml\\share_paths.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\xml\\share_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\xml\\agent_device_admin.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\src\\main\\res\\xml\\agent_device_admin.xml"
+    }
+]

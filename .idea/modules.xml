@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client.iml" filepath="$PROJECT_DIR$/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/client-client.iml" filepath="$PROJECT_DIR$/client/client-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iDPProxy/iDPProxy.iml" filepath="$PROJECT_DIR$/iDPProxy/iDPProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
+    </modules>
+  </component>
+</project>

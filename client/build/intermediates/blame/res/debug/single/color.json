@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_light.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_dark.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\client\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\color\\common_signin_btn_text_dark.xml"
+    }
+]

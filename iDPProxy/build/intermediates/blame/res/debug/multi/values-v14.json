@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\iDPProxy\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\Albert\\AndroidStudioProjects\\client\\iDPProxy\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1081
+                    }
+                }
+            }
+        ]
+    }
+]
